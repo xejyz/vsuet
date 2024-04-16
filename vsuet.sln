@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeometrProgress", "GeometrP
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CopyArray", "CopyArray\CopyArray.vcxproj", "{2607900E-B7B3-44F1-AD87-7C2449D99DE6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rectangle", "Rectangle\Rectangle.vcxproj", "{A477E675-97A1-4CB1-B248-14BEDF5C61CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{2607900E-B7B3-44F1-AD87-7C2449D99DE6}.Release|x64.Build.0 = Release|x64
 		{2607900E-B7B3-44F1-AD87-7C2449D99DE6}.Release|x86.ActiveCfg = Release|Win32
 		{2607900E-B7B3-44F1-AD87-7C2449D99DE6}.Release|x86.Build.0 = Release|Win32
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Debug|Any CPU.Build.0 = Debug|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Debug|x64.ActiveCfg = Debug|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Debug|x64.Build.0 = Debug|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Debug|x86.Build.0 = Debug|Win32
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Release|Any CPU.ActiveCfg = Release|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Release|Any CPU.Build.0 = Release|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Release|x64.ActiveCfg = Release|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Release|x64.Build.0 = Release|x64
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Release|x86.ActiveCfg = Release|Win32
+		{A477E675-97A1-4CB1-B248-14BEDF5C61CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
